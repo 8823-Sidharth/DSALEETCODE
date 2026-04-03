@@ -1,21 +1,21 @@
 class Solution {
 public:
-    // int lowerbound(vector <int> &arr,int n,int x){
-    //     int low=0;
-    //     int high=n-1;
-    //     int ans=n;
-    //     while(low<=high){
-    //         int mid=(low+high)/2;
-    //         if(arr[mid]>=x){
-    //             ans=mid;
-    //             high=mid-1;
-    //         }
-    //         else{
-    //             low=mid+1;
-    //         }
-    //     }
-    //     return ans;
-    // }
+    int lowerbound(vector <int> &arr,int n,int x){
+        int low=0;
+        int high=n-1;
+        int ans=n;
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(arr[mid]>=x){
+                ans=mid;
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+        return ans;
+    }
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
         int cnt_max=0;
         int index=-1;
