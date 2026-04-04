@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2643-row-with-maximum-ones) |
+| [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2643-row-with-maximum-ones) |
+| [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
