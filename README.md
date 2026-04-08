@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [0344-reverse-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
