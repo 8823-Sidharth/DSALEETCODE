@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0125-valid-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
+| [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
