@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
 | [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
+| [0205-isomorphic-strings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
