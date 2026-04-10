@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0443-string-compression) |
+| [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
 | [0205-isomorphic-strings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
+| [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
