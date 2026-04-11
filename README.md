@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0443-string-compression) |
 | [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
