@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Binary Search
 |  |
 | ------- |
