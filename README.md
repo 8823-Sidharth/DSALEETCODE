@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0008-string-to-integer-atoi](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
 | [0443-string-compression](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0443-string-compression) |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
+| [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 ## Math
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
