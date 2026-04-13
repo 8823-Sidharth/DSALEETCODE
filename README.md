@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0014-longest-common-prefix) |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
 | [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
