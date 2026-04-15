@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
 |  |
 | ------- |
