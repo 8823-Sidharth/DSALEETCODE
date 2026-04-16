@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 ## Simulation
 |  |
 | ------- |
