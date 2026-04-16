@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0443-string-compression) |
 | [0948-bag-of-tokens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0948-bag-of-tokens) |
 | [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
