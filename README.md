@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
+| [3783-mirror-distance-of-an-integer](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
