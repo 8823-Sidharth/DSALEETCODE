@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
+| [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
+| [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
 ## Sliding Window
 |  |
 | ------- |
