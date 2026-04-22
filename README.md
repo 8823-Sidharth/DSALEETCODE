@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0206-reverse-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
