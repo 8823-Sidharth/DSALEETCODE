@@ -143,4 +143,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0206-reverse-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
