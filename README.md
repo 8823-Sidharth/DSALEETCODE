@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
