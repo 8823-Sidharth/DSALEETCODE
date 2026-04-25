@@ -36,7 +36,7 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         ListNode* prev = NULL;
-        while(fast != NULL && fast->next != NULL){
+        while(fast != NULL && fast->next != NULL){     //using optimal 
             prev = slow;
             slow = slow->next;
             fast = fast->next->next;
