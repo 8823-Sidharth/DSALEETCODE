@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0061-rotate-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
+| [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
