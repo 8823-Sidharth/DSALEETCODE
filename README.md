@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [0001-two-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
+| [0027-remove-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0061-rotate-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
+| [0027-remove-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
