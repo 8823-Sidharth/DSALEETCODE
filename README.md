@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0138-copy-list-with-random-pointer) |
+| [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
