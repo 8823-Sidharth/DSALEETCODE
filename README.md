@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [3783-mirror-distance-of-an-integer](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [0002-add-two-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0002-add-two-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0050-powx-n) |
 ## Merge Sort
 |  |
 | ------- |
