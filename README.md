@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [0022-generate-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0022-generate-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -131,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
