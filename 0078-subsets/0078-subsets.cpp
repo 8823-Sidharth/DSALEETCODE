@@ -1,9 +1,4 @@
-// class Solution {
-// public:
-//     vector<vector<int>> subsets(vector<int>& nums) {
-        
-//     }
-// };
+
 class Solution {
 public:
     void find(int index, vector<int> &nums,vector<int> &temp,vector<vector<int>> &ans){
