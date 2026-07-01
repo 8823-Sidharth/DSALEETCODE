@@ -3,8 +3,8 @@ public:
     void solve(int num,int k,int target,vector<int>& temp,vector<vector<int>>& ans){
         if(temp.size()==k){
             if(target==0)
-             ans.push_back(temp);
-             return;
+                ans.push_back(temp);
+            return;
         }
         if(num>9)
             return;
