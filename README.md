@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0216-combination-sum-iii) |
+| [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
+| [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
