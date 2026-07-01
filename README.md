@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0216-combination-sum-iii) |
 | [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
+| [0031-next-permutation](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0031-next-permutation) |
 ## Math
 |  |
 | ------- |
