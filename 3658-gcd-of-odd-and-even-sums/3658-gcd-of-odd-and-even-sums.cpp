@@ -3,13 +3,10 @@ public:
     int gcdOfOddEvenSums(int n) {
         int sumodd=0;
         int sumeven=0;
-        if(n%2==0){
-            sumeven+=n;
+        for(int i=0;i<n;i++){
+            sumeven+=(2*i);
+            sumodd+=(2*i-1);
         }
-        if(n%2==1){
-            sumodd+=n;
-        }
-        int m = gcd(sumeven,sumodd);
-        return m;
+        return gcd(sumeven,sumodd);
     }
 };
