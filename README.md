@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0216-combination-sum-iii) |
 | [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
 | [0031-next-permutation](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0031-next-permutation) |
+| [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0022-generate-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0216-combination-sum-iii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
