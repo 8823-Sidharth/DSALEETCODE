@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0031-next-permutation) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0216-combination-sum-iii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
+| [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
 ## Bit Manipulation
 |  |
 | ------- |
