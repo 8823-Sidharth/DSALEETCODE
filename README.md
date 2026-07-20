@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
+| [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
