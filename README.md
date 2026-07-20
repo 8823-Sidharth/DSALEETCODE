@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
 | [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
+| [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
+| [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
+| [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 ## Bit Manipulation
 |  |
 | ------- |
