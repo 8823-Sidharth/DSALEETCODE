@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
