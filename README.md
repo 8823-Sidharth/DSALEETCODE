@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0051-n-queens) |
 | [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
 | [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
