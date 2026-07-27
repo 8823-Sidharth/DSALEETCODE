@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1260-shift-2d-grid) |
 | [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
