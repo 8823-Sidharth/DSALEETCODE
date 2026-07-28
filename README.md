@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0825-friends-of-appropriate-ages) |
+| [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
