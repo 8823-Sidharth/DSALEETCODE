@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |
