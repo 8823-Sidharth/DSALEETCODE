@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0088-merge-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
