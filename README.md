@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0079-word-search) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [0781-rabbits-in-forest](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0781-rabbits-in-forest) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
