@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [0231-power-of-two](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1922-count-good-numbers) |
+| [0231-power-of-two](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
