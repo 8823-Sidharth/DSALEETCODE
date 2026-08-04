@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0148-sort-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0148-sort-list) |
 | [0053-maximum-subarray](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0231-power-of-two) |
+| [0190-reverse-bits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0190-reverse-bits) |
 ## Number Theory
 |  |
 | ------- |
