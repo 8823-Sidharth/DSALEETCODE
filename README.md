@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
