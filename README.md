@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0231-power-of-two](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0231-power-of-two) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
