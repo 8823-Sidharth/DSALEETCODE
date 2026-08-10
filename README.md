@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0234-palindrome-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,8 +305,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
