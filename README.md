@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0234-palindrome-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
