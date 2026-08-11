@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
+| [0496-next-greater-element-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
+| [0496-next-greater-element-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [0496-next-greater-element-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -320,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
+| [0496-next-greater-element-i](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
