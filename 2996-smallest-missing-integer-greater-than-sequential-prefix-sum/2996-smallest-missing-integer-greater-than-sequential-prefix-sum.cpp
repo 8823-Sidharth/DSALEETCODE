@@ -11,9 +11,13 @@ public:
                 break;
             }
         }
-        vector<int> temp=nums;
-        sort(temp.begin(),temp.end());
-        while(find(temp.begin(),temp.end(),sum)!=temp.end()){
+        // vector<int> temp=nums;
+        // sort(temp.begin(),temp.end());
+        // while(find(temp.begin(),temp.end(),sum)!=temp.end()){
+        //     sum++;
+        // }
+        unordered_set<int> st(nums.begin(),nums.end());
+        while(st.find(sum)!=st.end()){
             sum++;
         }
         return sum;
