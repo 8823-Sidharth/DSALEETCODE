@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/8823-Sidharth/DSALEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
